@@ -2,7 +2,7 @@
 Search USA Zip Codes in a given radius for a given Zip Code.
 
 Backend Language used: PHP
-Database: MySQL (dump is provided)
+Database: MariaDB (dump is provided)
 
 You should provide at least one ZIP Code and radius or longitude and latitude together to obtain specific zipcode from database and then search other zipcodes around it in a given radius.
 
